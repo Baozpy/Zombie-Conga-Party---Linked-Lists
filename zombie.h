@@ -1,6 +1,5 @@
 /*
-    Author: Baozan Yan
-    Date: 2022.06.28
+
     Description: The class of zombie
 */
 
